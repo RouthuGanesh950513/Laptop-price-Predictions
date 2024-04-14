@@ -1,0 +1,1 @@
+Predicting laptop prices involves building a machine learning model that can estimate the price of a laptop based on various features such as processor type, RAM size, storage capacity, brand, screen size, etc.
